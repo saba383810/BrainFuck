@@ -1,4 +1,4 @@
-# brainfuck
-## brainfuckでhelloworld を表示させるプログラムです^^
+## brainfuck
+### "Hello World!" を表示させるプログラムです^^
 
 
